@@ -31,10 +31,10 @@
                                     </div>
                                 </div>
                             @endif
-                            <h3 class="text-center"> <b>Log-In</b></h3><hr>
+                            <h3 class="text-center"autocomplete="off"> <b>Log-In</b></h3><hr>
                             <div class="mb-3">
                               <label for="exampleInputEmail1" class="form-label">Email :</label>
-                              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="email">
+                              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="email"autocomplete="off">
                             </div>
                             <div class="mb-3">
                               <label for="exampleInputPassword1" class="form-label">Password :</label>
